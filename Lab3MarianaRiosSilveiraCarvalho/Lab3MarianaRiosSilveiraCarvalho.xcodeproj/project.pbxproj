@@ -16,6 +16,7 @@
 		2811D94D2ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811D94C2ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoTests.swift */; };
 		2811D9572ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811D9562ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoUITests.swift */; };
 		2811D9592ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811D9582ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoUITestsLaunchTests.swift */; };
+		2811D9662ABFF13E00F66E69 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811D9652ABFF13E00F66E69 /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2811D9522ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab3MarianaRiosSilveiraCarvalhoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2811D9562ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab3MarianaRiosSilveiraCarvalhoUITests.swift; sourceTree = "<group>"; };
 		2811D9582ABF22A300F66E69 /* Lab3MarianaRiosSilveiraCarvalhoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab3MarianaRiosSilveiraCarvalhoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2811D9652ABFF13E00F66E69 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2811D9352ABF22A200F66E69 /* AppDelegate.swift */,
 				2811D9372ABF22A200F66E69 /* SceneDelegate.swift */,
 				2811D9392ABF22A200F66E69 /* ViewController.swift */,
+				2811D9652ABFF13E00F66E69 /* ViewModel.swift */,
 				2811D93E2ABF22A200F66E69 /* Assets.xcassets */,
 				2811D9402ABF22A200F66E69 /* LaunchScreen.storyboard */,
 				2811D93B2ABF22A200F66E69 /* Main.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				2811D93A2ABF22A200F66E69 /* ViewController.swift in Sources */,
 				2811D9362ABF22A200F66E69 /* AppDelegate.swift in Sources */,
+				2811D9662ABFF13E00F66E69 /* ViewModel.swift in Sources */,
 				2811D9382ABF22A200F66E69 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
